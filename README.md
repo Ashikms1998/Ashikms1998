@@ -1,4 +1,7 @@
 # I'm Ashik 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikms1998)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ashikms1998"/>
+
+
+<img alt="top languages" align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikms1998&layout=compact"/>
